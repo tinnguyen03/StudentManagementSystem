@@ -1,0 +1,10 @@
+com\university\model\Grade.class
+com\university\util\DBUtil.class
+com\university\controller\GradeController.class
+com\university\dao\GradeDAO.class
+com\university\model\Student.class
+com\university\controller\StudentController.class
+com\university\studentmanagementsystem\JakartaRestConfiguration.class
+com\university\studentmanagementsystem\resources\JakartaEE10Resource.class
+com\university\test\TestDBConnection.class
+com\university\dao\StudentDAO.class
